@@ -1,2 +1,2 @@
-# Ignore data folders
 **/data/
+**/.DS_Store
